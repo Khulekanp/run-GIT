@@ -1,3 +1,4 @@
 # run-GIT
 
-This repo was used to learn git from Amigoscode
+This repo was used to get up and running with git.
+ 
